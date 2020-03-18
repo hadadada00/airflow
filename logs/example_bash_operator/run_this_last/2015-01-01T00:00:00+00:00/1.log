@@ -1,0 +1,12 @@
+[2020-03-11 02:41:00,007] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: example_bash_operator.run_this_last 2015-01-01T00:00:00+00:00 [queued]>
+[2020-03-11 02:41:00,020] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: example_bash_operator.run_this_last 2015-01-01T00:00:00+00:00 [queued]>
+[2020-03-11 02:41:00,020] {taskinstance.py:866} INFO - 
+--------------------------------------------------------------------------------
+[2020-03-11 02:41:00,020] {taskinstance.py:867} INFO - Starting attempt 1 of 1
+[2020-03-11 02:41:00,020] {taskinstance.py:868} INFO - 
+--------------------------------------------------------------------------------
+[2020-03-11 02:41:00,026] {taskinstance.py:887} INFO - Executing <Task(DummyOperator): run_this_last> on 2015-01-01T00:00:00+00:00
+[2020-03-11 02:41:00,028] {standard_task_runner.py:53} INFO - Started process 10007 to run task
+[2020-03-11 02:41:00,087] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: example_bash_operator.run_this_last 2015-01-01T00:00:00+00:00 [running]> Koyas-Air
+[2020-03-11 02:41:00,108] {taskinstance.py:1048} INFO - Marking task as SUCCESS.dag_id=example_bash_operator, task_id=run_this_last, execution_date=20150101T000000, start_date=20200310T174100, end_date=20200310T174100
+[2020-03-11 02:41:10,004] {logging_mixin.py:112} INFO - [2020-03-11 02:41:10,003] {local_task_job.py:103} INFO - Task exited with return code 0

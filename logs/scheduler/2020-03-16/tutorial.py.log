@@ -1,0 +1,145 @@
+[2020-03-17 00:26:13,168] {scheduler_job.py:153} INFO - Started process (PID=44299) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:26:13,174] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:26:13,177] {logging_mixin.py:112} INFO - [2020-03-17 00:26:13,176] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:26:13,194] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:26:13,238] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.070 seconds
+[2020-03-17 00:27:05,346] {scheduler_job.py:153} INFO - Started process (PID=44329) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:27:05,351] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:27:05,352] {logging_mixin.py:112} INFO - [2020-03-17 00:27:05,352] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:27:05,360] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:27:05,389] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.044 seconds
+[2020-03-17 00:27:57,495] {scheduler_job.py:153} INFO - Started process (PID=44355) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:27:57,503] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:27:57,504] {logging_mixin.py:112} INFO - [2020-03-17 00:27:57,504] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:27:57,514] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:27:57,555] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.060 seconds
+[2020-03-17 00:28:49,646] {scheduler_job.py:153} INFO - Started process (PID=44381) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:28:49,653] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:28:49,654] {logging_mixin.py:112} INFO - [2020-03-17 00:28:49,654] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:28:49,663] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:28:49,694] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.048 seconds
+[2020-03-17 00:29:41,805] {scheduler_job.py:153} INFO - Started process (PID=44415) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:29:41,811] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:29:41,812] {logging_mixin.py:112} INFO - [2020-03-17 00:29:41,812] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:29:41,820] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:29:41,854] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.049 seconds
+[2020-03-17 00:30:33,939] {scheduler_job.py:153} INFO - Started process (PID=44443) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:30:33,945] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:30:33,947] {logging_mixin.py:112} INFO - [2020-03-17 00:30:33,946] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:30:33,954] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:30:33,980] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.040 seconds
+[2020-03-17 00:31:28,132] {scheduler_job.py:153} INFO - Started process (PID=44470) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:31:28,141] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:31:28,142] {logging_mixin.py:112} INFO - [2020-03-17 00:31:28,142] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:31:28,150] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:31:28,176] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.044 seconds
+[2020-03-17 00:32:22,283] {scheduler_job.py:153} INFO - Started process (PID=44500) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:32:22,288] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:32:22,289] {logging_mixin.py:112} INFO - [2020-03-17 00:32:22,289] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:32:22,298] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:32:22,324] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.041 seconds
+[2020-03-17 00:33:16,433] {scheduler_job.py:153} INFO - Started process (PID=44560) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:33:16,440] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:33:16,441] {logging_mixin.py:112} INFO - [2020-03-17 00:33:16,441] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:33:16,450] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:33:16,481] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.048 seconds
+[2020-03-17 00:34:10,581] {scheduler_job.py:153} INFO - Started process (PID=44602) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:34:10,587] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:34:10,588] {logging_mixin.py:112} INFO - [2020-03-17 00:34:10,588] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:34:10,595] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:34:10,623] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.041 seconds
+[2020-03-17 00:35:04,756] {scheduler_job.py:153} INFO - Started process (PID=44643) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:35:04,764] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:35:04,765] {logging_mixin.py:112} INFO - [2020-03-17 00:35:04,764] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:35:04,772] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:35:04,802] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.046 seconds
+[2020-03-17 00:35:56,902] {scheduler_job.py:153} INFO - Started process (PID=44674) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:35:56,909] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:35:56,912] {logging_mixin.py:112} INFO - [2020-03-17 00:35:56,910] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:35:56,921] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:35:56,951] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.049 seconds
+[2020-03-17 00:36:49,080] {scheduler_job.py:153} INFO - Started process (PID=44702) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:36:49,091] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:36:49,092] {logging_mixin.py:112} INFO - [2020-03-17 00:36:49,092] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:36:49,106] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:36:49,144] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.064 seconds
+[2020-03-17 00:37:41,217] {scheduler_job.py:153} INFO - Started process (PID=44731) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:37:41,223] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:37:41,225] {logging_mixin.py:112} INFO - [2020-03-17 00:37:41,224] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:37:41,234] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:37:41,262] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.045 seconds
+[2020-03-17 00:38:33,387] {scheduler_job.py:153} INFO - Started process (PID=44762) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:38:33,393] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:38:33,394] {logging_mixin.py:112} INFO - [2020-03-17 00:38:33,393] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:38:33,402] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:38:33,431] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.044 seconds
+[2020-03-17 00:40:24,197] {scheduler_job.py:153} INFO - Started process (PID=44826) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:40:24,202] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:40:24,203] {logging_mixin.py:112} INFO - [2020-03-17 00:40:24,203] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:40:24,211] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:40:24,237] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.040 seconds
+[2020-03-17 00:41:18,360] {scheduler_job.py:153} INFO - Started process (PID=44863) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:41:18,366] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:41:18,367] {logging_mixin.py:112} INFO - [2020-03-17 00:41:18,367] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:41:18,375] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:41:18,403] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.044 seconds
+[2020-03-17 00:41:51,751] {scheduler_job.py:153} INFO - Started process (PID=44893) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:41:51,758] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:41:51,759] {logging_mixin.py:112} INFO - [2020-03-17 00:41:51,758] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:41:51,767] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:41:51,794] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.043 seconds
+[2020-03-17 00:42:45,928] {scheduler_job.py:153} INFO - Started process (PID=44928) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:42:45,934] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:42:45,935] {logging_mixin.py:112} INFO - [2020-03-17 00:42:45,935] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:42:45,945] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:42:45,977] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.049 seconds
+[2020-03-17 00:43:40,119] {scheduler_job.py:153} INFO - Started process (PID=44959) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:43:40,125] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:43:40,126] {logging_mixin.py:112} INFO - [2020-03-17 00:43:40,125] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:43:40,135] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:43:40,162] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.043 seconds
+[2020-03-17 00:46:03,581] {scheduler_job.py:153} INFO - Started process (PID=45052) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:46:03,587] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:46:03,588] {logging_mixin.py:112} INFO - [2020-03-17 00:46:03,587] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:46:03,598] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:46:03,626] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.046 seconds
+[2020-03-17 00:46:57,747] {scheduler_job.py:153} INFO - Started process (PID=45080) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:46:57,753] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:46:57,754] {logging_mixin.py:112} INFO - [2020-03-17 00:46:57,754] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:46:57,762] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:46:57,789] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.042 seconds
+[2020-03-17 00:47:51,895] {scheduler_job.py:153} INFO - Started process (PID=45107) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:47:51,900] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:47:51,901] {logging_mixin.py:112} INFO - [2020-03-17 00:47:51,901] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:47:51,909] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:47:51,934] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.040 seconds
+[2020-03-17 00:48:46,096] {scheduler_job.py:153} INFO - Started process (PID=45134) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:48:46,103] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:48:46,104] {logging_mixin.py:112} INFO - [2020-03-17 00:48:46,103] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:48:46,114] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:48:46,143] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.047 seconds
+[2020-03-17 00:49:40,303] {scheduler_job.py:153} INFO - Started process (PID=45161) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:49:40,310] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:49:40,312] {logging_mixin.py:112} INFO - [2020-03-17 00:49:40,311] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:49:40,320] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:49:40,349] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.046 seconds
+[2020-03-17 00:50:34,446] {scheduler_job.py:153} INFO - Started process (PID=45188) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:50:34,452] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:50:34,453] {logging_mixin.py:112} INFO - [2020-03-17 00:50:34,452] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:50:34,466] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:50:34,494] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.049 seconds
+[2020-03-17 00:51:28,643] {scheduler_job.py:153} INFO - Started process (PID=45215) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:51:28,649] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:51:28,650] {logging_mixin.py:112} INFO - [2020-03-17 00:51:28,650] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:51:28,660] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:51:28,687] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.044 seconds
+[2020-03-17 00:52:22,788] {scheduler_job.py:153} INFO - Started process (PID=45248) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:52:22,794] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:52:22,795] {logging_mixin.py:112} INFO - [2020-03-17 00:52:22,795] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:52:22,804] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:52:22,830] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.042 seconds
+[2020-03-17 00:53:16,949] {scheduler_job.py:153} INFO - Started process (PID=45279) to work on /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:53:16,955] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/tutorial.py for tasks to queue
+[2020-03-17 00:53:16,956] {logging_mixin.py:112} INFO - [2020-03-17 00:53:16,955] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:53:16,963] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/koyaharayama/airflow/dags/tutorial.py
+[2020-03-17 00:53:16,989] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/tutorial.py took 0.041 seconds

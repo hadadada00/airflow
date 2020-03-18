@@ -1,0 +1,19 @@
+[2020-03-11 02:40:36,529] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: example_bash_operator.run_after_loop 2015-01-01T00:00:00+00:00 [queued]>
+[2020-03-11 02:40:36,540] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: example_bash_operator.run_after_loop 2015-01-01T00:00:00+00:00 [queued]>
+[2020-03-11 02:40:36,540] {taskinstance.py:866} INFO - 
+--------------------------------------------------------------------------------
+[2020-03-11 02:40:36,540] {taskinstance.py:867} INFO - Starting attempt 1 of 1
+[2020-03-11 02:40:36,540] {taskinstance.py:868} INFO - 
+--------------------------------------------------------------------------------
+[2020-03-11 02:40:36,547] {taskinstance.py:887} INFO - Executing <Task(BashOperator): run_after_loop> on 2015-01-01T00:00:00+00:00
+[2020-03-11 02:40:36,551] {standard_task_runner.py:53} INFO - Started process 9997 to run task
+[2020-03-11 02:40:36,617] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: example_bash_operator.run_after_loop 2015-01-01T00:00:00+00:00 [running]> Koyas-Air
+[2020-03-11 02:40:36,633] {bash_operator.py:82} INFO - Tmp dir root location: 
+ /var/folders/w1/yz27wqj17cn6jplmgfg49p_40000gn/T
+[2020-03-11 02:40:36,634] {bash_operator.py:105} INFO - Temporary script location: /var/folders/w1/yz27wqj17cn6jplmgfg49p_40000gn/T/airflowtmpcd0jvpvn/run_after_loopzf2pyy4o
+[2020-03-11 02:40:36,635] {bash_operator.py:115} INFO - Running command: echo 1
+[2020-03-11 02:40:36,640] {bash_operator.py:122} INFO - Output:
+[2020-03-11 02:40:36,643] {bash_operator.py:126} INFO - 1
+[2020-03-11 02:40:36,643] {bash_operator.py:130} INFO - Command exited with return code 0
+[2020-03-11 02:40:36,653] {taskinstance.py:1048} INFO - Marking task as SUCCESS.dag_id=example_bash_operator, task_id=run_after_loop, execution_date=20150101T000000, start_date=20200310T174036, end_date=20200310T174036
+[2020-03-11 02:40:46,524] {logging_mixin.py:112} INFO - [2020-03-11 02:40:46,523] {local_task_job.py:103} INFO - Task exited with return code 0

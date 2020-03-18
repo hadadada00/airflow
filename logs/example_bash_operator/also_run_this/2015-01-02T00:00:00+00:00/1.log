@@ -1,0 +1,19 @@
+[2020-03-11 02:40:24,631] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: example_bash_operator.also_run_this 2015-01-02T00:00:00+00:00 [queued]>
+[2020-03-11 02:40:24,639] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: example_bash_operator.also_run_this 2015-01-02T00:00:00+00:00 [queued]>
+[2020-03-11 02:40:24,639] {taskinstance.py:866} INFO - 
+--------------------------------------------------------------------------------
+[2020-03-11 02:40:24,639] {taskinstance.py:867} INFO - Starting attempt 1 of 1
+[2020-03-11 02:40:24,639] {taskinstance.py:868} INFO - 
+--------------------------------------------------------------------------------
+[2020-03-11 02:40:24,651] {taskinstance.py:887} INFO - Executing <Task(BashOperator): also_run_this> on 2015-01-02T00:00:00+00:00
+[2020-03-11 02:40:24,654] {standard_task_runner.py:53} INFO - Started process 9992 to run task
+[2020-03-11 02:40:24,732] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: example_bash_operator.also_run_this 2015-01-02T00:00:00+00:00 [running]> Koyas-Air
+[2020-03-11 02:40:24,751] {bash_operator.py:82} INFO - Tmp dir root location: 
+ /var/folders/w1/yz27wqj17cn6jplmgfg49p_40000gn/T
+[2020-03-11 02:40:24,752] {bash_operator.py:105} INFO - Temporary script location: /var/folders/w1/yz27wqj17cn6jplmgfg49p_40000gn/T/airflowtmppl3vi70a/also_run_thisp78jlfow
+[2020-03-11 02:40:24,753] {bash_operator.py:115} INFO - Running command: echo "run_id=backfill_2015-01-02T00:00:00+00:00 | dag_run=<DagRun example_bash_operator @ 2015-01-02 00:00:00+00:00: backfill_2015-01-02T00:00:00+00:00, externally triggered: False>"
+[2020-03-11 02:40:24,759] {bash_operator.py:122} INFO - Output:
+[2020-03-11 02:40:24,762] {bash_operator.py:126} INFO - run_id=backfill_2015-01-02T00:00:00+00:00 | dag_run=<DagRun example_bash_operator @ 2015-01-02 00:00:00+00:00: backfill_2015-01-02T00:00:00+00:00, externally triggered: False>
+[2020-03-11 02:40:24,762] {bash_operator.py:130} INFO - Command exited with return code 0
+[2020-03-11 02:40:24,770] {taskinstance.py:1048} INFO - Marking task as SUCCESS.dag_id=example_bash_operator, task_id=also_run_this, execution_date=20150102T000000, start_date=20200310T174024, end_date=20200310T174024
+[2020-03-11 02:40:34,626] {logging_mixin.py:112} INFO - [2020-03-11 02:40:34,625] {local_task_job.py:103} INFO - Task exited with return code 0

@@ -1,0 +1,150 @@
+[2020-03-17 00:25:35,056] {scheduler_job.py:153} INFO - Started process (PID=44274) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:25:35,062] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:25:35,063] {logging_mixin.py:112} INFO - [2020-03-17 00:25:35,063] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:25:35,082] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:25:35,111] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.055 seconds
+[2020-03-17 00:26:27,214] {scheduler_job.py:153} INFO - Started process (PID=44309) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:26:27,220] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:26:27,222] {logging_mixin.py:112} INFO - [2020-03-17 00:26:27,221] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:26:27,235] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:26:27,262] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.049 seconds
+[2020-03-17 00:27:19,375] {scheduler_job.py:153} INFO - Started process (PID=44336) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:27:19,381] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:27:19,382] {logging_mixin.py:112} INFO - [2020-03-17 00:27:19,382] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:27:19,394] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:27:19,419] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.043 seconds
+[2020-03-17 00:28:11,537] {scheduler_job.py:153} INFO - Started process (PID=44362) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:28:11,543] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:28:11,544] {logging_mixin.py:112} INFO - [2020-03-17 00:28:11,544] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:28:11,556] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:28:11,580] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.043 seconds
+[2020-03-17 00:29:03,689] {scheduler_job.py:153} INFO - Started process (PID=44388) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:29:03,694] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:29:03,695] {logging_mixin.py:112} INFO - [2020-03-17 00:29:03,694] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:29:03,705] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:29:03,732] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.043 seconds
+[2020-03-17 00:29:55,838] {scheduler_job.py:153} INFO - Started process (PID=44422) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:29:55,847] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:29:55,848] {logging_mixin.py:112} INFO - [2020-03-17 00:29:55,847] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:29:55,873] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:29:55,907] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.070 seconds
+[2020-03-17 00:30:47,989] {scheduler_job.py:153} INFO - Started process (PID=44450) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:30:47,995] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:30:47,996] {logging_mixin.py:112} INFO - [2020-03-17 00:30:47,996] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:30:48,009] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:30:48,039] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.050 seconds
+[2020-03-17 00:31:42,178] {scheduler_job.py:153} INFO - Started process (PID=44477) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:31:42,185] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:31:42,186] {logging_mixin.py:112} INFO - [2020-03-17 00:31:42,185] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:31:42,197] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:31:42,222] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.043 seconds
+[2020-03-17 00:32:36,329] {scheduler_job.py:153} INFO - Started process (PID=44507) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:32:36,337] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:32:36,338] {logging_mixin.py:112} INFO - [2020-03-17 00:32:36,337] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:32:36,348] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:32:36,374] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.045 seconds
+[2020-03-17 00:33:30,457] {scheduler_job.py:153} INFO - Started process (PID=44574) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:33:30,462] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:33:30,463] {logging_mixin.py:112} INFO - [2020-03-17 00:33:30,463] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:33:30,475] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:33:30,496] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.039 seconds
+[2020-03-17 00:34:24,625] {scheduler_job.py:153} INFO - Started process (PID=44609) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:34:24,631] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:34:24,632] {logging_mixin.py:112} INFO - [2020-03-17 00:34:24,632] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:34:24,644] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:34:24,673] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.048 seconds
+[2020-03-17 00:35:18,793] {scheduler_job.py:153} INFO - Started process (PID=44651) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:35:18,799] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:35:18,800] {logging_mixin.py:112} INFO - [2020-03-17 00:35:18,800] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:35:18,811] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:35:18,836] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.043 seconds
+[2020-03-17 00:36:10,940] {scheduler_job.py:153} INFO - Started process (PID=44682) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:36:10,946] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:36:10,948] {logging_mixin.py:112} INFO - [2020-03-17 00:36:10,947] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:36:10,960] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:36:10,988] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.048 seconds
+[2020-03-17 00:37:03,093] {scheduler_job.py:153} INFO - Started process (PID=44709) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:37:03,099] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:37:03,100] {logging_mixin.py:112} INFO - [2020-03-17 00:37:03,100] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:37:03,111] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:37:03,137] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.044 seconds
+[2020-03-17 00:37:55,268] {scheduler_job.py:153} INFO - Started process (PID=44741) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:37:55,273] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:37:55,274] {logging_mixin.py:112} INFO - [2020-03-17 00:37:55,274] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:37:55,287] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:37:55,311] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.043 seconds
+[2020-03-17 00:38:47,429] {scheduler_job.py:153} INFO - Started process (PID=44770) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:38:47,435] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:38:47,436] {logging_mixin.py:112} INFO - [2020-03-17 00:38:47,436] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:38:47,449] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:38:47,477] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.049 seconds
+[2020-03-17 00:39:50,118] {scheduler_job.py:153} INFO - Started process (PID=44807) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:39:50,123] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:39:50,124] {logging_mixin.py:112} INFO - [2020-03-17 00:39:50,124] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:39:50,140] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:39:50,167] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.050 seconds
+[2020-03-17 00:40:44,267] {scheduler_job.py:153} INFO - Started process (PID=44837) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:40:44,273] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:40:44,274] {logging_mixin.py:112} INFO - [2020-03-17 00:40:44,274] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:40:44,287] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:40:44,313] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.046 seconds
+[2020-03-17 00:42:13,816] {scheduler_job.py:153} INFO - Started process (PID=44908) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:42:13,822] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:42:13,823] {logging_mixin.py:112} INFO - [2020-03-17 00:42:13,823] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:42:13,835] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:42:13,865] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.049 seconds
+[2020-03-17 00:43:08,004] {scheduler_job.py:153} INFO - Started process (PID=44939) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:43:08,009] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:43:08,010] {logging_mixin.py:112} INFO - [2020-03-17 00:43:08,010] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:43:08,022] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:43:08,046] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.042 seconds
+[2020-03-17 00:44:02,184] {scheduler_job.py:153} INFO - Started process (PID=44971) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:44:02,189] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:44:02,189] {logging_mixin.py:112} INFO - [2020-03-17 00:44:02,189] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:44:02,200] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:44:02,223] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.039 seconds
+[2020-03-17 00:45:39,518] {scheduler_job.py:153} INFO - Started process (PID=45015) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:45:39,524] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:45:39,525] {logging_mixin.py:112} INFO - [2020-03-17 00:45:39,525] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:45:39,539] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:45:39,568] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.051 seconds
+[2020-03-17 00:46:33,659] {scheduler_job.py:153} INFO - Started process (PID=45068) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:46:33,664] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:46:33,665] {logging_mixin.py:112} INFO - [2020-03-17 00:46:33,665] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:46:33,677] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:46:33,701] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.042 seconds
+[2020-03-17 00:47:27,825] {scheduler_job.py:153} INFO - Started process (PID=45095) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:47:27,830] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:47:27,831] {logging_mixin.py:112} INFO - [2020-03-17 00:47:27,831] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:47:27,843] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:47:27,867] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.043 seconds
+[2020-03-17 00:48:22,015] {scheduler_job.py:153} INFO - Started process (PID=45122) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:48:22,021] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:48:22,022] {logging_mixin.py:112} INFO - [2020-03-17 00:48:22,022] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:48:22,033] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:48:22,059] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.043 seconds
+[2020-03-17 00:49:16,203] {scheduler_job.py:153} INFO - Started process (PID=45149) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:49:16,209] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:49:16,211] {logging_mixin.py:112} INFO - [2020-03-17 00:49:16,210] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:49:16,223] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:49:16,252] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.049 seconds
+[2020-03-17 00:50:10,387] {scheduler_job.py:153} INFO - Started process (PID=45176) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:50:10,392] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:50:10,393] {logging_mixin.py:112} INFO - [2020-03-17 00:50:10,393] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:50:10,409] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:50:10,434] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.047 seconds
+[2020-03-17 00:51:04,557] {scheduler_job.py:153} INFO - Started process (PID=45203) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:51:04,563] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:51:04,564] {logging_mixin.py:112} INFO - [2020-03-17 00:51:04,564] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:51:04,577] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:51:04,604] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.047 seconds
+[2020-03-17 00:51:58,733] {scheduler_job.py:153} INFO - Started process (PID=45235) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:51:58,739] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:51:58,740] {logging_mixin.py:112} INFO - [2020-03-17 00:51:58,740] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:51:58,754] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:51:58,781] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.048 seconds
+[2020-03-17 00:52:52,883] {scheduler_job.py:153} INFO - Started process (PID=45264) to work on /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:52:52,892] {scheduler_job.py:1560} INFO - Processing file /Users/koyaharayama/airflow/dags/basic_xcom.py for tasks to queue
+[2020-03-17 00:52:52,893] {logging_mixin.py:112} INFO - [2020-03-17 00:52:52,893] {dagbag.py:403} INFO - Filling up the DagBag from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:52:52,908] {scheduler_job.py:1572} INFO - DAG(s) dict_keys(['basic_mysql']) retrieved from /Users/koyaharayama/airflow/dags/basic_xcom.py
+[2020-03-17 00:52:52,942] {scheduler_job.py:161} INFO - Processing /Users/koyaharayama/airflow/dags/basic_xcom.py took 0.059 seconds

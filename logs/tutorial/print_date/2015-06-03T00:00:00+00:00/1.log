@@ -1,0 +1,19 @@
+[2020-03-12 01:29:35,242] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: tutorial.print_date 2015-06-03T00:00:00+00:00 [queued]>
+[2020-03-12 01:29:35,252] {taskinstance.py:655} INFO - Dependencies all met for <TaskInstance: tutorial.print_date 2015-06-03T00:00:00+00:00 [queued]>
+[2020-03-12 01:29:35,252] {taskinstance.py:866} INFO - 
+--------------------------------------------------------------------------------
+[2020-03-12 01:29:35,252] {taskinstance.py:867} INFO - Starting attempt 1 of 2
+[2020-03-12 01:29:35,252] {taskinstance.py:868} INFO - 
+--------------------------------------------------------------------------------
+[2020-03-12 01:29:35,261] {taskinstance.py:887} INFO - Executing <Task(BashOperator): print_date> on 2015-06-03T00:00:00+00:00
+[2020-03-12 01:29:35,262] {standard_task_runner.py:53} INFO - Started process 12544 to run task
+[2020-03-12 01:29:35,315] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: tutorial.print_date 2015-06-03T00:00:00+00:00 [running]> Koyas-Air
+[2020-03-12 01:29:35,328] {bash_operator.py:82} INFO - Tmp dir root location: 
+ /var/folders/w1/yz27wqj17cn6jplmgfg49p_40000gn/T
+[2020-03-12 01:29:35,330] {bash_operator.py:105} INFO - Temporary script location: /var/folders/w1/yz27wqj17cn6jplmgfg49p_40000gn/T/airflowtmpaehko6jk/print_datev99hadrt
+[2020-03-12 01:29:35,330] {bash_operator.py:115} INFO - Running command: date
+[2020-03-12 01:29:35,335] {bash_operator.py:122} INFO - Output:
+[2020-03-12 01:29:35,345] {bash_operator.py:126} INFO - Thu Mar 12 01:29:35 JST 2020
+[2020-03-12 01:29:35,345] {bash_operator.py:130} INFO - Command exited with return code 0
+[2020-03-12 01:29:35,352] {taskinstance.py:1048} INFO - Marking task as SUCCESS.dag_id=tutorial, task_id=print_date, execution_date=20150603T000000, start_date=20200311T162935, end_date=20200311T162935
+[2020-03-12 01:29:45,243] {logging_mixin.py:112} INFO - [2020-03-12 01:29:45,242] {local_task_job.py:103} INFO - Task exited with return code 0
